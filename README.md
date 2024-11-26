@@ -108,8 +108,8 @@ JSON:
 "data": [ 
 { 
 "I've": { 
-"id": "CVE-2023-12345", 
-"source identifier": "CVE-2023-12345", 
+"id": "CVE-2014-123456", 
+"source identifier": "CVE-2014-123456", 
 "published": "2023-04-01T00:00:00.000Z", 
 "lastModified": "2023-04-15T00:00:00.000Z", 
 "vulnStatus": "PUBLISHED" 
@@ -117,8 +117,8 @@ JSON:
 }, 
 { 
 "I've": { 
-"id": "CVE-2023-12346", 
-"source identifier": "CVE-2023-12346", 
+"id": "CVE-2014-456132", 
+"source identifier": "CVE-2014-456132", 
 "published": "2023-04-02T00:00:00.000Z", 
 "lastModified": "2023-04-16T00:00:00.000Z", 
 "vulnStatus": "PUBLISHED" 
@@ -143,7 +143,7 @@ Response:
 JSON 
 { 
 "I've": { 
-"id": "CVE-2023-12345", 
+"id": "CVE-2014-123456", 
 "descriptions": [ 
 { 
 "value": "A vulnerability has been discovered in the XYZ software that allows an 
